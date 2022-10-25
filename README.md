@@ -45,7 +45,7 @@ Year
 RandomForest was fitted into the Algorithm on the train dataset and predictions were made using the test data set. The RMSE was 2.2076 while for the feature importance, it was found out that Close, Adj Close, High and Low were good predictors.
 
 # Conclusion
-from the visualization in te feature importance, it can be seen that close, Adj Close, High, Low are good predictors in the model and they have influence on it.
+From the visualization in the feature importance, it can be seen that close, Adj Close, High, Low are good predictors in the model and they have influence on it.
 
 # References
 
